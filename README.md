@@ -8,7 +8,7 @@
 *********************************************************************************************************
 **Call for paper for the Quantum Artificial Intelligence Special Session**
 
-**Link:** https://neo-research-group.github.io/qai-cec2023/
+**Link:**  https://neo-research-group.github.io/qai-cec2023/
 *********************************************************************************************************
 Quantum Computing (QC) is a computation paradigm able of providing computational capacities that go beyond those of classical machines. On the other hand, Artificial Intelligence (AI) (e.g. Evolutionary Computation (EC), etc.) is also an interesting family of techniques that have already demonstrated promising applications in several fields. Quantum Artificial Intelligence (QAI) special session aims at providing the opportunity to researchers from both QC and AI domains to explore the add-on that both AI and QC jointly or separately, can have on one another or on other fields. The QAI special session will take place at the IEEE 2023 Congress on Evolutionary Computation (CEC'23), on July 1st-5th, 2023 in Chicago, USA. In the following, you can find the topics as well as the important dates to keep in mind and further details can be found at: https://neo-research-group.github.io/qai-cec2023/. We look forward to receiving your work(s) for the QAI special session.
 
