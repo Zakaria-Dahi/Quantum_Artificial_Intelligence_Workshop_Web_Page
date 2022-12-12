@@ -1,7 +1,7 @@
 # QAI_CEC_2023_Web_Page
 **About The Special Session:** This is the template of the Quantum Artificial intelligence Special Session organised within the 2023 conference on Evolutionary Computation (CEC'23) on July 1st-5th, 2023 in Chicago, USA.
 
-**About the Organisers:** Zakaria Abdelmoiz DAHI (University of Malaga), Gabriel Luque (University of Malaga), Francisco Chicano (University of Malaga).
+**About the Organisers:** Zakaria Abdelmoiz DAHI (University of Malaga, Spain), Gabriel Luque (University of Malaga, Spain), Francisco Chicano (University of Malaga, Spain).
 
 **Call For Paper**
 
