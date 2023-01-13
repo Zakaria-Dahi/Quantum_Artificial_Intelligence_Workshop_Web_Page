@@ -25,9 +25,9 @@ Quantum Computing (QC) is a computation paradigm able of providing computational
     
 **Important Dates:**
 
-    • Paper Submission: January 13th, 2023.
-    • Paper Reviews: March 3rd, 2023.
-    • Paper Re-submissions: March 24th, 2023.
-    • Paper Final Notifications: March 31st, 2023.
-    • Print-Ready Manuscripts: April 15th, 2023.
+    • January 27th, 2023.
+    • Paper Reviews: March 17th, 2023.
+    • Paper Re-submissions: April 7th, 2023.
+    • Paper Final Notifications: April 14th, 2023.
+    • Print-Ready Manuscripts: April 29th, 2023.
 
